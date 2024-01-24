@@ -58,7 +58,7 @@ export default function NavbarComponent() {
                   <AccordionTrigger>Repository</AccordionTrigger>
                   <AccordionContent>
                     <section className="flex flex-col w-full items-start">
-                      <Link className="w-full " href={"https://github.com/FForFachriza/nextjs-quran"}>
+                      <Link className="w-full " href={"https://github.com/hellookii/quran-nextjs"}>
                         <Button className="flex w-full justify-start my-2" variant={"outline"}>
                           Github
                         </Button>
